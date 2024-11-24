@@ -23,5 +23,7 @@ Devil Arms generally fall into a few different weapon types:
 - *Charge Blade*: bladed weapon capable of switching between a sword and shield form, and an axe form, able to deal massive blows
 - *Gunlance*: a bladed/ranged mix, consists of a shield and lance, capable of firing close-range shelled ammunition
 - *Glaive*: bladed weapon, consist of a double ended polearm, has a storage container for small insects, bacteria, [[Nanite|nanites]], etc, that can be controlled by the Devil Arm
-- *Bowgun*: ranged weapon, capable of firing shelled ammunition
+- *Bowgun*: ranged weapon, capable of firing shelled ammunition.
+
+
 The [[Red Queen]] and [[Wyverian Ignis]] are the only sword-type Devil Arms to date, with the Red Queen being capable of utilising all weapon type abilities.
