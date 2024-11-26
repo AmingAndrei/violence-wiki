@@ -4,7 +4,7 @@ tags:
 aliases:
   - Balauri
 ---
-The Balaur (pl. Balauri) are hexapodal, multi-headed, lizard-like organisms classified under the [[Paramythi]] class.
+The Balaur (pl. Balauri) are quadrupedal, multi-headed, lizard-like organisms classified under the [[Paramythi]] class.
 
 Adult Balauri can reach a total length of 25 meters. Balauri exhibit a combination of tough, blue scales on their bodies and faces, with fur covering their necks, wings, and ears. The underlying skin beneath the fur is thick and leathery, comparable to the durability of their scales. Each Balaur has three distinct heads: one dominant central head and two lateral heads, each connected to the body by its own neck.  
 
@@ -18,5 +18,5 @@ Each head is equipped with a gland capable of producing and expelling dark-purpl
 
 Balauri exhibit basic regenerative abilities, allowing gradual regrowth of limbs. In the event of head loss, their highly specialized blood coagulates instantaneously upon exposure to air, preventing excessive hemorrhaging. Balauri possess numerous undeveloped but fertilized eggs within their bodies, functioning as potential replacement heads. When a head is severed, one egg exits stasis, migrates to the severed area, and develops into a new head, integrating with the body’s systems. This process requires several months. Heads deemed nonfunctional by the organism will be severed by the remaining heads. If all three heads are incapacitated or destroyed, the Balaur will die.
 
-Balauri are solitary, intelligent, and generally curious creatures. Despite their reptilian appearance, Balauri are endothermic. Balauri reproduce sexually, with the female larger and more aggressive than the male, laying 2-3 eggs per clutch. Offspring hatch fully developed, with all three heads functional at birth.
+Balauri are solitary, generally curious creatures. Despite their reptilian appearance, Balauri are endothermic. Balauri reproduce sexually, with the female larger and more aggressive than the male, laying 2-3 eggs per clutch. Offspring hatch fully developed, with all three heads functional at birth.
 

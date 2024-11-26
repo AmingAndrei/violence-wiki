@@ -20,4 +20,3 @@ The following are identified species within the class:
 - [[Nymph]]
 - [[Void Whale]]
 - [[Paracusia]]
-- [[Devil Slug]]

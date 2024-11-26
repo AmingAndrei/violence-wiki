@@ -10,3 +10,4 @@ Known life forms in the *Nullifera* domain:
 - [[Diavolos]] class
 - [[Paramythi]] class
 - [[Nanite]]-based entities
+- [[Vegetation]]
